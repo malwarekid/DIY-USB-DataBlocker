@@ -24,13 +24,19 @@ This project provides instructions on how to create a USB data blocker using bas
 
 ## Circuit Diagram
 
-USB Data Blocker [circuit diagram]()
+USB Data Blocker ![circuit diagram](https://github.com/malwarekid/DIY-USB-DataBlocker/blob/main/img/circuit-diagram.png)
 
 ## Assembly Instructions
 
 1. Connect the power lines (red and black) directly from the male to female USB connectors.
+
 2. Cut and isolate the data lines (green and white) to prevent data transfer.
+
+![cut data lines](https://github.com/malwarekid/DIY-USB-DataBlocker/blob/main/img/cut-data-lines.jpg)
+
 3. Solder the connections and insulate them with electrical tape.
+
+![Soldering](https://github.com/malwarekid/DIY-USB-DataBlocker/blob/main/img/bottom.jpg)
 
 ## Usage
 
