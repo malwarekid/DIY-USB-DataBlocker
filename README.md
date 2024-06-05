@@ -12,7 +12,7 @@ This project provides instructions on how to create a USB data blocker using bas
 - Easy to build with basic components
 - Provides an extra layer of security for your devices
 
-[DIY USB Data Blocker]()
+![DIY USB Data Blocker](https://github.com/malwarekid/DIY-USB-DataBlocker/blob/main/img/top.jpg)
 
 ## Materials Needed
 
